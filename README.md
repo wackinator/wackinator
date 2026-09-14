@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm wackyy</h1>
+<h1 align="center">hey, i'm wacky</h1>
 <h3 align="center">i study electrical engineering, but i code for fun</h3>
 
 <h3 align="left">Languages and Tools:</h3>
